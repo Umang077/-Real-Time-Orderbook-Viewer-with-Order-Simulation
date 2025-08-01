@@ -46,10 +46,8 @@ You can:
 ---
 
 ## Demo
+![Uploading OrderBook Simulation Photo.jpeg…]()
 
-> **Live Preview:** _(Add your Vercel or Netlify URL here)_  
-
-_Screenshot or GIF placeholder_
 
 ---
 
