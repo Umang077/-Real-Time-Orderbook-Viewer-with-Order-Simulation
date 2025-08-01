@@ -65,7 +65,7 @@ You can:
 
    ```bash
    git clone https://github.com/Umang077/Real-Time-Orderbook-Viewer-with-Order-Simulation.git
-   cd Real-Time-Orderbook-Viewer-with-Order-Simulation
+   cd orderbook-viewer
 Install dependencies
 
 bash
