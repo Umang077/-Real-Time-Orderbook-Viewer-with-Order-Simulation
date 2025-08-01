@@ -46,7 +46,7 @@ You can:
 ---
 
 ## Demo
-![Uploading OrderBook Simulation Photo.jpeg…]()
+![Alt text describing the image](assets/screenshot.png)
 
 
 ---
