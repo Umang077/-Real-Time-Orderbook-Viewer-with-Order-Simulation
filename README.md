@@ -80,11 +80,7 @@ yarn
 # or pnpm
 pnpm install
 Running Locally
-Starts the development server with hot-reload:
-
-bash
-Copy
-Edit
+Starts the development server:
 npm run dev
 # or
 yarn dev
