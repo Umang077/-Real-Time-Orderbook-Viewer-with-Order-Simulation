@@ -46,7 +46,7 @@ You can:
 ---
 
 ## Demo
-![Alt text describing the image](assets/screenshot.png)
+![Orderbook Viewer Screenshot](src/app/orderbook.jpeg)
 
 
 ---
